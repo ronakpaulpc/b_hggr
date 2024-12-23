@@ -14,8 +14,6 @@ libraries("tidyverse")
 ```
 
 
-
-
 # Typing and running a code chunk.
 
 ```{r, eval=TRUE}
